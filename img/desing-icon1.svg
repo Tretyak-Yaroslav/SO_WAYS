@@ -1,0 +1,43 @@
+<svg width="75" height="75" viewBox="0 0 75 75" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_170_1449" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="75" height="75">
+<circle cx="37.5" cy="37.5" r="37.5" transform="rotate(90 37.5 37.5)" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask0_170_1449)">
+<line x1="79" y1="11.5" x2="40" y2="11.5" stroke="white"/>
+<line x1="79" y1="15.5" x2="40" y2="15.5" stroke="white"/>
+<line x1="79" y1="19.5" x2="40" y2="19.5" stroke="white"/>
+<line x1="79" y1="23.5" x2="40" y2="23.5" stroke="white"/>
+<line x1="79" y1="27.5" x2="40" y2="27.5" stroke="white"/>
+<line x1="79" y1="31.5" x2="40" y2="31.5" stroke="white"/>
+<line x1="79" y1="35.5" x2="40" y2="35.5" stroke="white"/>
+<line x1="79" y1="7.5" x2="40" y2="7.49999" stroke="white"/>
+<line x1="79" y1="3.5" x2="40" y2="3.49999" stroke="white"/>
+<line x1="35" y1="68.5" x2="7.62892e-06" y2="68.5" stroke="white"/>
+<line x1="35" y1="72.5" x2="7.62892e-06" y2="72.5" stroke="white"/>
+<line x1="35" y1="64.5" x2="7.62892e-06" y2="64.5" stroke="white"/>
+<line x1="35" y1="60.5" x2="7.62892e-06" y2="60.5" stroke="white"/>
+<line x1="35" y1="56.5" x2="7.62892e-06" y2="56.5" stroke="white"/>
+<line x1="35" y1="52.5" x2="7.62892e-06" y2="52.5" stroke="white"/>
+<line x1="35" y1="48.5" x2="7.62892e-06" y2="48.5" stroke="white"/>
+<line x1="35" y1="44.5" x2="7.62892e-06" y2="44.5" stroke="white"/>
+<line x1="35" y1="40.5" x2="7.62924e-06" y2="40.5" stroke="white"/>
+<line x1="6.5" y1="36" x2="6.50001" y2="-3.86469e-06" stroke="white"/>
+<line x1="2.5" y1="36" x2="2.50001" y2="-3.86469e-06" stroke="white"/>
+<line x1="10.5" y1="36" x2="10.5" y2="-3.86469e-06" stroke="white"/>
+<line x1="14.5" y1="36" x2="14.5" y2="-3.86469e-06" stroke="white"/>
+<line x1="18.5" y1="36" x2="18.5" y2="-3.86469e-06" stroke="white"/>
+<line x1="22.5" y1="36" x2="22.5" y2="-3.86469e-06" stroke="white"/>
+<line x1="26.5" y1="36" x2="26.5" y2="-3.86469e-06" stroke="white"/>
+<line x1="30.5" y1="36" x2="30.5" y2="-3.86469e-06" stroke="white"/>
+<line x1="34.5" y1="36" x2="34.5" y2="-3.86453e-06" stroke="white"/>
+<line x1="64.5" y1="75" x2="64.5" y2="40" stroke="white"/>
+<line x1="60.5" y1="75" x2="60.5" y2="40" stroke="white"/>
+<line x1="56.5" y1="75" x2="56.5" y2="40" stroke="white"/>
+<line x1="52.5" y1="75" x2="52.5" y2="40" stroke="white"/>
+<line x1="48.5" y1="75" x2="48.5" y2="40" stroke="white"/>
+<line x1="44.5" y1="75" x2="44.5" y2="40" stroke="white"/>
+<line x1="40.5" y1="75" x2="40.5" y2="40" stroke="white"/>
+<line x1="68.5" y1="75" x2="68.5" y2="40" stroke="white"/>
+<line x1="72.5" y1="75" x2="72.5" y2="40" stroke="white"/>
+</g>
+</svg>
